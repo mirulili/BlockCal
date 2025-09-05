@@ -1,2 +1,2 @@
 # BlockCal
-iOS Photo-based Calendar App
+This is a project on creating iOS Photo-based Calendar App by @mirulili.
