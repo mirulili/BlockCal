@@ -1,0 +1,14 @@
+# SwiftPM build artifacts
+.build/
+
+# Xcode workspace/user settings
+.swiftpm/xcode/
+*.xcworkspace
+xcuserdata/
+xcshareddata/
+
+# Playgrounds cache
+*.playground/contents.xcplayground
+*.playground/workspace.plist
+*.playground/DocumentThumbnail.*
+*.playground/CachedManifest.plist
